@@ -8,10 +8,10 @@ import tweepy
 from random import shuffle
 
 ### Twitter API KEY
-Consumer_key = 'kGaRMeBr1gj4X5i3XTxvP1jIl'
-Consumer_secret = 'Zyg0TJzfCQI89P7cPTSXRuGprjKUyZpbPe6BQ1CDv6g7okc4Bo'
-Access_token = '971157695242805248-JJW6I9V3Fsw3fc56npsHfkFR51uxXvH'
-Access_secret = 'csB5CQnIQWpzwQJmBIeB5Pm4gLxWOTv15uOPdF6xaxlc3'
+Consumer_key = ''
+Consumer_secret = ''
+Access_token = ''
+Access_secret = ''
 
 app = Flask(__name__)
 
